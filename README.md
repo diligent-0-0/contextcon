@@ -50,18 +50,3 @@ genai.configure(api_key="YOUR_GEMINI_API_KEY")
 Launch the Application:
 
 streamlit run app.py
-
-
-🎯 Hackathon Workflow & Demo Guide
-
-Upload / Paste Profile: Load your resume (PDF) or edit your skill profile in the Candidate Input panel.
-
-Run Autonomous Mediation (Tab 1): Generate dual strategy dossiers and match analytics.
-
-Explore Job Matches (Tab 2): View matched roles with direct links to official company careers portals.
-
-Find Hiring Decision Makers (Tab 3): Uncover verified hiring manager contact information for your target role.
-
-Draft & Dispatch Pitch (Tab 4): Generate a tailored recruiter outreach email, save it as a draft, open it directly in Gmail, or send it automatically.
-
-Trigger Cron Monitor (Sidebar): Test the autonomous background scanner to generate real-time match notifications and receive email digests.
